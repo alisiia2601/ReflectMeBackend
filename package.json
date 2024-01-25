@@ -1,5 +1,5 @@
 {
-  "name": "themern",
+  "name": "reflectmebackend",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alisiia2601/theMERN.git"
+    "url": "git+https://github.com/alisiia2601/ReflectMeBackend.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alisiia2601/theMERN/issues"
+    "url": "https://github.com/alisiia2601/ReflectMeBackend/issues"
   },
-  "homepage": "https://github.com/alisiia2601/theMERN#readme",
+  "homepage": "https://github.com/alisiia2601/ReflectMeBackend#readme",
   "devDependencies": {
     "@types/bcrypt": "^5.0.2",
     "@types/cors": "^2.8.17",
